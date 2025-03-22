@@ -13,7 +13,7 @@ Compatible with the Arduino Nano and MG90 servo motors (metal gear)
 
 ## Support
 
-For technical support, contact our team at support@lankatronics.lk
+For technical support, contact our team at support@tesla.lk
 
 To control this using android device, you will need the following app:
 https://play.google.com/store/apps/details?id=com.webdim.arduino_bluetooth_car_hc6 
